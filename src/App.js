@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import DependencySelector from './component/Selector';
 
