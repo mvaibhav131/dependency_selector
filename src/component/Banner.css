@@ -1,0 +1,74 @@
+/* Banner.css */
+
+.banner-container {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: rgb(114, 114, 239);
+    padding: 20px;
+    color: rgb(0, 0, 0);
+    width: 2560px;
+    height: 1440px;
+  }
+  
+  /* .left {
+    flex: 1;
+  }
+  
+  .right {
+    flex: 1;
+    text-align: right;
+  } */
+  
+  .name {
+    /* position: absolute; */
+    display: block;
+    font-weight: bold;
+    font-size: 51px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-bottom: -40px;
+    margin-top: -95px;
+    margin-right: -45rem;
+    /* margin-right: -88px; */
+  }
+  .surname {
+    /* position: absolute; */
+    
+    font-weight: bold;
+    font-size: 51px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-bottom: -40px;
+    margin-top: -41px;
+    margin-left: 0.6rem;
+    margin-right: -45rem;
+    /* margin-right: -88px; */
+  }
+  .social-icons {
+    display: flex;
+    margin-bottom: 10px;
+  }
+  
+  .social-icon {
+    width: 40px;
+    height: 40px;
+    margin-left: 10px;
+    border-radius: 11px;
+  }
+  
+  .username {
+    display: flex;
+    font-weight: bold;
+    font-size: 33px;
+    margin-left: 26px;
+  }
+  
+  .title {
+    display: flex;
+    font-weight: bold;
+    font-size: 33px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: -26rem;
+    margin-top: 0.5rem;
+    color: white;
+  }
+  
