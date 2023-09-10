@@ -1,6 +1,6 @@
 import './App.css';
+import Banner from './component/Banner';
 import DependencySelector from './component/Selector';
-import KrishnaBackground from './component/Template';
 
 
 function App() {
@@ -8,7 +8,7 @@ function App() {
     <div className="App">
       {/* <h2>Dependency Selector</h2>
      <DependencySelector/> */}
-     <KrishnaBackground/>
+     <Banner/>
     </div>
   );
 }
