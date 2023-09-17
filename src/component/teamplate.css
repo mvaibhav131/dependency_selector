@@ -22,9 +22,9 @@
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url('https://code.visualstudio.com/assets/docs/languages/javascript/overview.png');
+    background-image: url('https://img.freepik.com/free-vector/blue-3d-abstract-wave-pattern-background-vector_53876-171391.jpg');
     background-size: cover;
-    filter: blur(3px);
+    filter: blur(1px);
   }
   
   .content {
@@ -48,14 +48,14 @@
     margin: 10px 0;
     font-size: 98px; 
     font-weight: bold;
-    color: violet;
+    color: rgb(255, 255, 255);
   }
   
   .heading3 {
     margin: 10px 0;
     font-size: 96px; 
     font-weight: bold;
-    color: rgb(255, 255, 255);
+    color: rgb(255, 247, 0);
   }
 
   .heading4 {
