@@ -7,7 +7,6 @@ function Banner() {
       <div className="left">
         <p className="name">Vaibhav</p><br /><br/>
         <p className="surname">More</p>
-
       </div>
       <div className="right">
         <div className="social-icons">
